@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="top_bar_background">#F58535</color>
+    <color name="splash_text">#f55b35</color>
+    <color name="splash_design">#df6e12</color>
+    <color name="splash_background">#FFFFFF</color>
+    <color name="main_background">#FFFFFF</color>
 
+    <color name="black_overlay">#66000000</color>
+    <color name="nav_drawer_background">#FFFFFF</color>
+    <color name="nav_drawer_top_background">#CCCCCC</color>
+    <color name="nav_drawer_no_user_background">#AAAAAA</color>
+    <color name="dark_content_text">#333333</color>
+    <color name="sign_in_separator_color">#DDDDDD</color>
+    <color name="instructions_list_border_color">#FFDDDDDD</color>
 
-        <color name="notesPrimaryBackgroundColor">#009688</color>
+    <color name="notesPrimaryBackgroundColor">#009688</color>
+    <color name="notesSecondaryBackgroundColor">#004D40</color>
+    <color name="notesColorBackgroundAccent">#FF9922</color>
+    <color name="notesBackgroundColor">#FAFAFA</color>
+    <color name="notesPrimaryTextColor">#FAFAFA</color>
+    <color name="notesBody">#FAFAFA</color>
+    <color name="notesCardBody">#EBEBEB</color>
+    <color name="notesSecondaryTextColor">#656565</color>
+    <color name="notesDropBoxSeparator">#C1C1C1</color>
+    <color name="notesSelectionTickColor">#455EDE</color>
+    <color name="notesImageBackground">#C1C1C1</color>
 
-        <color name="notesSecondaryBackgroundColor">#004D40</color>
-
-        <color name="notesColorBackgroundAccent">#FF9922</color>
-
-        <color name="notesBackgroundColor">#FAFAFA</color>
-
-        <color name="notesPrimaryTextColor">#FAFAFA</color>
-
-        <color name="notesBody">#FAFAFA</color>
-
-        <color name="notesCardBody">#EBEBEB</color>
-
-        <color name="notesSecondaryTextColor">#656565</color>
-
-        <color name="notesDropBoxSeparator">#C1C1C1</color>
-
-        <color name="notesSelectionTickColor">#455EDE</color>
-
-        <color name="notesImageBackground">#C1C1C1</color>
-
-
+    <color name="divider_color">#C1C1C1</color>
 </resources>
